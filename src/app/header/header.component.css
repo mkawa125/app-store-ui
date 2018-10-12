@@ -1,0 +1,56 @@
+@import "~node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "~node_modules/font-awesome/css/font-awesome.min.css";
+.navbar{
+  color: #6B6D71;
+  font-size: small;
+}
+.navbar-nav li a {
+  color: #6B6D71;
+  font-size: small;
+}
+.navbar-brand{
+  color: black;
+  margin-right: 10px;
+  padding-right: 10px;
+}
+.btn-default{
+  padding: 3px 6px 3px 6px;
+  font-size: small;
+}
+.navbar-toggler-icon{
+  font-size: small;
+  color: #6B6D71;
+}
+.navbar-toggler{
+  border: 1px solid #6B6D71;
+  width: inherit;
+}
+.menu{
+  color: #6B6D71;
+  font-size: small;
+  font-weight: bold;
+}
+.paragraph{
+  color: #3A3A3B;
+  font-family: sans-serif;
+  font-size: medium;
+  line-height: 25px;
+}
+.icon-box{
+  border: 1px solid #D6D7D9;
+  border-radius: 4px;
+  padding: 5px;
+  width: 40px;
+  margin: 5px;
+}
+.content-box{
+  border: 1px solid #D6D7D9;
+  border-radius: 4px;
+  padding: 15px;
+}
+.inside{
+  border-radius: 4px;
+  border: 1px solid whitesmoke;
+  color: #6B6D71;
+  margin: 15px;
+}
